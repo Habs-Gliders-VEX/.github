@@ -90,7 +90,7 @@ A mixed Year 10 team from Haberdashers' Boys' and Girls' Schools, united by a pa
   <tr><td>HABS Gliders Team Website</td><td>Official team website</td><td><a href="https://habs-gliders-34071b.vercel.app">View →</a></td></tr>
   <tr><td>HABS Gliders V5 Hub App</td><td>Native iOS app built for Worlds 2026 — AI strategy assistant, match tracker, and scouting tool purpose-built for Pushback</td><td><a href="https://github.com/KayanShah/Habs-Gliders-V5-Hub">View →</a></td></tr>
   <tr><td>Prematch Auton and Driver Code</td><td>Match autonomous routines and driver code</td><td><a href="https://github.com/PanshulVempalli/HABS-Gliders-Pushback-2526">View →</a></td></tr>
-  <tr><td>VEX VR</td><td>Virtual robot simulation</td><td><a href="https://github.com/PanshulVempalli/VEX_Vr_Code_HABS-Gliders">View →</a></td></tr>
+  <tr><td>VEX VR</td><td>Virtual robot simulation</td><td><a href="https://github.com/Habs-Gliders-VEX/VEX_Vr_Code_HABS-Gliders">View →</a></td></tr>
   <tr><td>JAR Template</td><td>Advanced PID and motion control</td><td><a href="https://github.com/PanshulVempalli/JAR-template-Example-VEX-Code">View →</a></td></tr>
   <tr><td>EZ Template</td><td>PROS-based robot code</td><td><a href="https://github.com/PanshulVempalli/EZ-Template_VEX_code">View →</a></td></tr>
   <tr><td>Python Skills</td><td>Skills run code</td><td><a href="https://github.com/PanshulVempalli/VEX-V5-Python-Skills-Auton-Example">View →</a></td></tr>
