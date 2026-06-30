@@ -6,7 +6,7 @@
 ![Worlds](https://img.shields.io/badge/Worlds%202026-St.%20Louis%2C%20Missouri-blueviolet)
 ![Award](https://img.shields.io/badge/Judges%20Award-Winner-yellow)
 
-Official season repository for **HABS Gliders 34071B** — a mixed Year 10 team from Haberdashers' Boys' and Girls' School, competing in the VEX Robotics Pushback 2025/26 season. This is the first season the two schools have competed together as a joint team, and the first time either school has qualified for the **VEX Robotics World Championship**, held in St. Louis, Missouri on April 25th, 2026.
+Official season repository for **HABS Gliders 34071B** — a mixed Year 10 team from Haberdashers' Boys' and Girls' School, competing in the VEX Robotics Pushback 2025/26 season. This is the first season the two schools have competed together as a joint team, and the first time a mixed Habs Elstree team has qualified for the **VEX Robotics World Championship**, held in St. Louis, Missouri on April 25th, 2026.
 
 🌐 **Team Website:** [habs-gliders-34071b.vercel.app](https://habs-gliders-34071b.vercel.app)
 
@@ -20,6 +20,17 @@ Official season repository for **HABS Gliders 34071B** — a mixed Year 10 team 
 - **School(s):** Haberdashers' Boys' School & Haberdashers' Girls' School (Elstree) — first joint mixed team
 - **Stats:** 20+ engineering cycles · 6 team members · #1 UK ranking (VEX VR)
 - **Highlights:** First joint Habs VEX team · First team from Habs Girls' to qualify · Qualified for VEX Worlds 2026 (St. Louis, Missouri) · Judges Award winner
+
+---
+
+
+## 🏆 Season Achievements
+- 🌍 Qualified for the **VEX Robotics World Championship 2026** — St. Louis, Missouri (April 25th, 2026)
+- 🥇 **#1 in the UK** for VEX VR (middle and high school) · **#12 globally** in VEX VR Middle School
+- 🥈 **National Semifinalists** at the UK VEX V5 National Championship 2026
+- ⚖️ **Judges Award** at the League of Legends Regional Event
+- 🎯 **95** VR Skills high score across 250+ simulated runs
+- 🤝 First-ever joint VEX team between Haberdashers' Boys' and Girls' Schools, and the first team from Habs Girls' to qualify for Worlds
 
 ---
 
@@ -52,14 +63,14 @@ Engineered through 20+ design cycles for Push Back.
 
 ## 👥 Team Roles
 
+![Lead](https://img.shields.io/badge/Team%20Manager%2C%20Programmer%20%26%20Driver-Kayan%20Shah-920340)
 ![Lead](https://img.shields.io/badge/Programming%20%26%20Strategy%20Lead-Panshul%20Vempalli-920340)
-![Lead](https://img.shields.io/badge/Driver%20%26%20Programmer-Kayan%20Shah-920340)
 ![Role](https://img.shields.io/badge/Build%20Lead%20%26%20CAD-Joshua-920340)
 ![Role](https://img.shields.io/badge/Builder%20%26%20Online%20Challenges-Asha%20P.-920340)
 ![Role](https://img.shields.io/badge/Notebook%20Lead%20%26%20Designer-Tasnim-920340)
 ![Role](https://img.shields.io/badge/Builder%20%26%20Skills-Asha%20R.-920340)
-
-A mixed Year 10 team from Haberdashers' Boys' and Girls' School, united by a passion for robotics.
+ 
+A mixed Year 10 team from Haberdashers' Boys' and Girls' Schools, united by a passion for robotics.
 
 ---
 
@@ -86,15 +97,7 @@ A mixed Year 10 team from Haberdashers' Boys' and Girls' School, united by a pas
 
 ---
 
-## 🏆 Season Achievements
-- 🌍 Qualified for the **VEX Robotics World Championship 2026** — St. Louis, Missouri (April 25th, 2026)
-- 🥇 **#1 in the UK** for VEX VR (middle and high school) · **#12 globally** in VEX VR Middle School
-- 🥈 **National Semifinalists** at the UK VEX V5 National Championship 2026
-- ⚖️ **Judges Award** at the League of Legends Regional Event
-- 🎯 **95** VR Skills high score across 250+ simulated runs
-- 🤝 First-ever joint VEX team between Haberdashers' Boys' and Girls' Schools, and the first team from Habs Girls' to qualify for Worlds
 
----
 
 ## ❤️ Thank you
 - Thank you to the rest of the HABS Gliders Team
