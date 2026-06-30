@@ -4,7 +4,8 @@
 ![Team](https://img.shields.io/badge/Team-34071B-blue)
 ![Name](https://img.shields.io/badge/Name-HABS%20Gliders-red)
 ![Worlds](https://img.shields.io/badge/Worlds%202026-St.%20Louis%2C%20Missouri-blueviolet)
-![Award](https://img.shields.io/badge/Judges%20Award-Winner-yellow)
+![Award](https://img.shields.io/badge/Worlds%20Judges%20Award-Winner-yellow)
+![Award](https://img.shields.io/badge/VEX%20VR%20Program-%231%20UK-yellow)
 
 Official season repository for **HABS Gliders 34071B** — a mixed Year 10 team from Haberdashers' Boys' and Girls' School, competing in the VEX Robotics Pushback 2025/26 season. This is the first season the two schools have competed together as a joint team, and the first time a mixed Habs Elstree team has qualified for the **VEX Robotics World Championship**, held in St. Louis, Missouri on April 25th, 2026.
 
