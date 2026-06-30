@@ -1,6 +1,6 @@
-# HABS Gliders 34071B — VEX Pushback 2025/26
+# HABS Gliders 34071B — VEX Push Back 2025/26
 ![VEX Robotics](https://img.shields.io/badge/VEX-Robotics-red)
-![Season](https://img.shields.io/badge/Season-Pushback%202025%2F26-orange)
+![Season](https://img.shields.io/badge/Season-Push%20Back%202025%2F26-orange)
 ![Team](https://img.shields.io/badge/Team-34071B-blue)
 ![Name](https://img.shields.io/badge/Name-HABS%20Gliders-red)
 ![Worlds](https://img.shields.io/badge/Worlds%202026-St.%20Louis%2C%20Missouri-blueviolet)
