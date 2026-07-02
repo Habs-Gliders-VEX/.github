@@ -81,6 +81,10 @@ A mixed Year 10 team from Haberdashers' Boys' and Girls' Schools, united by a pa
 - **PROS** — Robot operating system for EZ Template
 - **VEX V5** — Robot hardware platform
 - **V5 Blocks** — Simple block-based programming used alongside other languages for rapid prototyping and auton testing
+- **VEX VR** — The VEX Virtual Robot tool to simulate autonomous programs
+- **Visual Studio Code** — IDE to run PROS template
+- **VEXcode V5** — The VEX IDE to run and upload code to VEX hardware 
+
 
 ---
 
