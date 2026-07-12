@@ -11,7 +11,7 @@ Official season repository for **HABS Gliders 34071B** — a mixed Year 10 team 
 
 🌐 **Team Website:** [habs-gliders-34071b.vercel.app](https://habs-gliders-34071b.vercel.app)
 
-**Github maintained by:** [@KayanShah](https://github.com/kayanshah) **and** [@PanshulVempalli](https://github.com/panshulvempalli)
+**[Github](https://github.com/habs-gliders-vex) maintained by:** [@KayanShah](https://github.com/kayanshah) **and** [@PanshulVempalli](https://github.com/panshulvempalli)
 
 
 ---
